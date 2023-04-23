@@ -5,7 +5,7 @@ Greetings!
 This is the code implementation of our group project of DDA4210. More specifically, we mainlly refered to the cartoon-gan struture with a little bit modifications in training logic. The whole project was aimed at playing around style transfer, getting farmiliar with deep learning coding, and having a lot of fun. We train a model that could transfer landscape photos of mountan Tai and Guilin to trainditional Chinese painting style. 
 
 ### Result Checking
-You can find all the report-shown images in ./Chinesepaintings
+You can find all the report-shown images in ./Chinesepainting
 
 ### Reproducing Results
 You need to first download required Chinese painting dataset from: https://paperswithcode.com/dataset/chinese-traditional-painting-dataset
